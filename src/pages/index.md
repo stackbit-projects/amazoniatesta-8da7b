@@ -5,7 +5,7 @@ meta_description: The preview of the Azimuth theme
 sections:
   - type: section_hero
     template: section_hero
-    section_id: hero
+    section_id: ddddd
     title: Amazonia Observa
     content: >-
       Azimuth is the perfect theme for developers, designers and entrepreneurs
